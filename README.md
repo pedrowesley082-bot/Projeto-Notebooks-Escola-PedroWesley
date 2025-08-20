@@ -1,6 +1,7 @@
-**ALUNO** Pedro Wesley de Sousa de Andrade
 
-# Projeto Tecnologia na sala de aula
+
+# Projeto Tecnologia na sala de aula: Aquisição de Notebooks para a Escola **Luzia Araujo Barros**
+
   
 Atividade módulo 3 Português instrumental
 
@@ -26,9 +27,9 @@ Essa mudança representa um investimento estratégico em tecnologia educacional,
 
 Promover a mobilidade no uso de recursos computacionais em salas de aula e ambientes externos.
 
-Aumentar em 50% a utilização dos equipamentos em diferentes disciplinas e espaços pedagógicos.
+Aumentar em **50%** a utilização dos equipamentos em diferentes disciplinas e espaços pedagógicos.
 
-Reduzir em até 30% o consumo de energia elétrica comparado aos desktops atuais.
+Reduzir em até **30%** o consumo de energia elétrica comparado aos desktops atuais.
 
 Modernizar a infraestrutura tecnológica da escola, garantindo melhor desempenho e suporte a softwares educacionais.
 
@@ -55,11 +56,11 @@ Melhorar a experiência de aprendizado dos alunos, oferecendo maior acessibilida
 
 🔗 Referências:
 
-Lenovo ThinkPad E14 [referência](https://www.lenovo.com/br/pt/p/laptops/thinkpad/thinkpade/e14-g2/22tpe14e4n2?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOooZQIkTVnaZqSXF_lBEDbrmzKymXIeYqJ710jERXAHNn0phcYZu)
+#### Lenovo ThinkPad E14 [referência](https://www.lenovo.com/br/pt/p/laptops/thinkpad/thinkpade/e14-g2/22tpe14e4n2?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOooZQIkTVnaZqSXF_lBEDbrmzKymXIeYqJ710jERXAHNn0phcYZu)
 <img width="798" height="696" alt="image" src="https://github.com/user-attachments/assets/084c6ee3-a87d-4fa4-9cf8-db312371d644" />
 
 
-Dell Inspiron – Linha Educacional [referência[(https://www.dell.com/pt-br/shop/cty/pdp/spd/inspiron-15-3530-laptop/brpicubto3530gyrnw?tfcid=31768715&gacd=9657105-15015-5761040-275878141-0&dgc=ST&cid=71700000122547973&gclsrc=aw.ds&gad_source=1&gad_campaignid=22710346479&gbraid=0AAAAADz5MFtsbgIQhpBoMWOE5o21rdKdP&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPvjr9inpwHOShZjNp5pvM_1d_VNxXtg5JohDqBYzbbtk-S3PQLtBpgaAiHyEALw_wcB)
+#### Dell Inspiron – Linha Educacional [referência](https://www.dell.com/pt-br/shop/cty/pdp/spd/inspiron-15-3530-laptop/brpicubto3530gyrnw?tfcid=31768715&gacd=9657105-15015-5761040-275878141-0&dgc=ST&cid=71700000122547973&gclsrc=aw.ds&gad_source=1&gad_campaignid=22710346479&gbraid=0AAAAADz5MFtsbgIQhpBoMWOE5o21rdKdP&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPvjr9inpwHOShZjNp5pvM_1d_VNxXtg5JohDqBYzbbtk-S3PQLtBpgaAiHyEALw_wcB)
 <img width="606" height="402" alt="image" src="https://github.com/user-attachments/assets/433d2c4c-852c-4c11-9e7b-4538faf27f65" />
 
 
@@ -91,13 +92,13 @@ Instituição: redução de custos com manutenção, menor consumo de energia, a
 
 7. ## Cronograma (Simplificado)
 
-Etapa	Prazo Estimado
-
-Planejamento e aprovação	2 semanas
-Processo de aquisição	4 semanas
-Instalação e configuração	2 semanas
-Implantação e treinamento	2 semanas
-Total estimado	10 semanas
+| Etapa                      | Prazo Estimado |
+|-----------------------------|----------------|
+| Planejamento e aprovação    | 2 semanas      |
+| Processo de aquisição       | 4 semanas      |
+| Instalação e configuração   | 2 semanas      |
+| Implantação e treinamento   | 2 semanas      |
+| *Total estimado*          | *10 semanas* |
 
 
 
