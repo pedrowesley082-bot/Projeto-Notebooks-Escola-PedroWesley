@@ -1,14 +1,14 @@
 # Projeto-Notebooks-Escola-PedroWesley
 Atividade módulo 3 Português instrumental
 
-1.Resumo Executivo
+1. ## Resumo Executivo
 
 A escola enfrenta atualmente limitações devido a computadores antigos e fixos, que dificultam o acesso ágil à tecnologia pelos alunos. Este projeto propõe a aquisição de 30 notebooks modernos para substituição, proporcionando maior mobilidade, flexibilidade e eficiência. A atualização permitirá uso em diferentes ambientes da escola, incentivará práticas pedagógicas inovadoras e trará benefícios como economia de energia, melhor desempenho e suporte ao processo de ensino-aprendizagem.
 
 
 ---
 
-2. Introdução e Justificativa
+2. ## Introdução e Justificativa
 
 O parque computacional da escola é composto por computadores de mesa com mais de 8 anos de uso, apresentando lentidão, alto consumo de energia e pouca flexibilidade, além de demandar manutenção constante. Esse cenário impacta negativamente no aprendizado, reduzindo a motivação dos alunos e limitando o uso de recursos digitais modernos.
 
@@ -19,7 +19,7 @@ Essa mudança representa um investimento estratégico em tecnologia educacional,
 
 ---
 
-3. Objetivos
+3. ## Objetivos
 
 Promover a mobilidade no uso de recursos computacionais em salas de aula e ambientes externos.
 
@@ -35,7 +35,7 @@ Melhorar a experiência de aprendizado dos alunos, oferecendo maior acessibilida
 
 ---
 
-4.## Especificações Técnicas dos Notebooks
+4. ## Especificações Técnicas dos Notebooks
 
 | Componente     | Mínimo                         | Recomendado                        |
 |----------------|--------------------------------|------------------------------------|
@@ -48,23 +48,27 @@ Melhorar a experiência de aprendizado dos alunos, oferecendo maior acessibilida
 | *Conectividade* | Wi-Fi 6, Bluetooth 5.0       | Wi-Fi 6E, Bluetooth 5.2            |
 | *Portas*      | 2 USB, 1 HDMI, 1 USB-C         | 3 USB, 1 HDMI, 1 USB-C             |
 | *Sistema Operacional* | Windows 11 Pro Educ.  | Windows 11 Pro Educ.               |
+### Figura 1: Modelo ilustrativo de notebook com perfil corporativo educacional.
 
-5.5. Orçamento Estimado
+🔗 Referências:
 
-Item	Quantidade	Valor Unitário (R$)	Valor Total (R$)
-
-Notebook	30	5.500,00	165.000,00
-Seguro contra acidentes (anual)	30	400,00	12.000,00
-Sistema de rastreamento	30	150,00	4.500,00
-Licenças de Software Educacional	30	300,00	9.000,00
-Bolsas/Cases de Proteção	30	120,00	3.600,00
-Roteador Wi-Fi corporativo	2	1.200,00	2.400,00
-Instalação e Configuração	1	5.000,00	5.000,00
-TOTAL GERAL ESTIMADO	-	-	201.500,00
+Lenovo ThinkPad E14 – Especificações
+<img width="798" height="696" alt="image" src="https://github.com/user-attachments/assets/084c6ee3-a87d-4fa4-9cf8-db312371d644" />
 
 
+Dell Inspiron – Linha Educacional
+5. ## Orçamento Estimado
 
----
+| Item                           | Quantidade | Valor Unitário (R$)                           | Valor Total (R$)                              |
+|--------------------------------|------------|-----------------------------------------------|-----------------------------------------------|
+| Notebook                       | 30         | <span style="color:green">5.500,00</span>     | <span style="color:green">165.000,00</span>   |
+| Seguro contra acidentes (anual)| 30         | <span style="color:green">400,00</span>       | <span style="color:green">12.000,00</span>    |
+| Sistema de rastreamento        | 30         | <span style="color:green">150,00</span>       | <span style="color:green">4.500,00</span>     |
+| Licenças de Software Educacional | 30       | <span style="color:green">300,00</span>       | <span style="color:green">9.000,00</span>     |
+| Bolsas/Cases de Proteção       | 30         | <span style="color:green">120,00</span>       | <span style="color:green">3.600,00</span>     |
+| Roteador Wi-Fi corporativo     | 2          | <span style="color:green">1.200,00</span>     | <span style="color:green">2.400,00</span>     |
+| Instalação e Configuração      | 1          | <span style="color:green">5.000,00</span>     | <span style="color:green">5.000,00</span>     |
+| *TOTAL GERAL ESTIMADO*       | -          | -                                             | <span style="color:green"><b>201.500,00</b></span> |
 
 6. Benefícios Esperados
 
