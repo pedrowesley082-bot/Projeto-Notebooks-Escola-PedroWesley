@@ -1,5 +1,7 @@
+**ALUNO** Pedro Wesley de Sousa de Andrade
+
 # Projeto Tecnologia na sala de aula
- *ALUNO* Pedro Wesley de Sousa de Andrade 
+  
 Atividade módulo 3 Português instrumental
 
 1. ## Resumo Executivo
@@ -73,7 +75,7 @@ Dell Inspiron – Linha Educacional
 | Bolsas/Cases de Proteção       | 30         | <span style="color:green">120,00</span>       | <span style="color:green">3.600,00</span>     |
 | Roteador Wi-Fi corporativo     | 2          | <span style="color:green">1.200,00</span>     | <span style="color:green">2.400,00</span>     |
 | Instalação e Configuração      | 1          | <span style="color:green">5.000,00</span>     | <span style="color:green">5.000,00</span>     |
-| *TOTAL GERAL ESTIMADO*       | -          | - <span style="color:green">7.175,00</span>| <span style="color:green"><b>201.500,00</b></span> |
+| *TOTAL GERAL ESTIMADO*       | -          |  <span style="color:green">7.175,00</span>| <span style="color:green"><b>201.500,00</b></span> |
 
 6. ## Benefícios Esperados
 
