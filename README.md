@@ -6,7 +6,7 @@ Atividade módulo 3 Português instrumental
 
 1. ## Resumo Executivo
 
-A escola enfrenta atualmente limitações devido a computadores antigos e fixos, que dificultam o acesso ágil à tecnologia pelos alunos. Este projeto propõe a aquisição de 30 notebooks modernos para substituição, proporcionando maior mobilidade, flexibilidade e eficiência. A atualização permitirá uso em diferentes ambientes da escola, incentivará práticas pedagógicas inovadoras e trará benefícios como economia de energia, melhor desempenho e suporte ao processo de ensino-aprendizagem.
+A escola enfrenta atualmente limitações devido a computadores antigos e fixos, que dificultam o acesso ágil à tecnologia pelos alunos. Este projeto propõe a aquisição de **30 notebooks modernos** para substituição, proporcionando maior mobilidade, flexibilidade e eficiência. A atualização permitirá uso em diferentes ambientes da escola, incentivará práticas pedagógicas inovadoras e trará benefícios como economia de energia, melhor desempenho e suporte ao processo de ensino-aprendizagem.
 
 
 ---
@@ -55,11 +55,11 @@ Melhorar a experiência de aprendizado dos alunos, oferecendo maior acessibilida
 
 🔗 Referências:
 
-Lenovo ThinkPad E14 – Especificações
+Lenovo ThinkPad E14 [referência](https://www.lenovo.com/br/pt/p/laptops/thinkpad/thinkpade/e14-g2/22tpe14e4n2?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOooZQIkTVnaZqSXF_lBEDbrmzKymXIeYqJ710jERXAHNn0phcYZu)
 <img width="798" height="696" alt="image" src="https://github.com/user-attachments/assets/084c6ee3-a87d-4fa4-9cf8-db312371d644" />
 
 
-Dell Inspiron – Linha Educacional
+Dell Inspiron – Linha Educacional [referência[(https://www.dell.com/pt-br/shop/cty/pdp/spd/inspiron-15-3530-laptop/brpicubto3530gyrnw?tfcid=31768715&gacd=9657105-15015-5761040-275878141-0&dgc=ST&cid=71700000122547973&gclsrc=aw.ds&gad_source=1&gad_campaignid=22710346479&gbraid=0AAAAADz5MFtsbgIQhpBoMWOE5o21rdKdP&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPvjr9inpwHOShZjNp5pvM_1d_VNxXtg5JohDqBYzbbtk-S3PQLtBpgaAiHyEALw_wcB)
 <img width="606" height="402" alt="image" src="https://github.com/user-attachments/assets/433d2c4c-852c-4c11-9e7b-4538faf27f65" />
 
 
