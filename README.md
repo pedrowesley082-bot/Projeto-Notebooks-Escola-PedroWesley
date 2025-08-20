@@ -57,6 +57,7 @@ Lenovo ThinkPad E14 – Especificações
 
 
 Dell Inspiron – Linha Educacional
+
 5. ## Orçamento Estimado
 
 | Item                           | Quantidade | Valor Unitário (R$)                           | Valor Total (R$)                              |
