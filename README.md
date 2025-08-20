@@ -1,4 +1,5 @@
-# Projeto-Notebooks-Escola-PedroWesley
+# Projeto Tecnologia na sala de aula
+ *ALUNO* Pedro Wesley de Sousa de Andrade 
 Atividade módulo 3 Português instrumental
 
 1. ## Resumo Executivo
@@ -57,6 +58,9 @@ Lenovo ThinkPad E14 – Especificações
 
 
 Dell Inspiron – Linha Educacional
+<img width="606" height="402" alt="image" src="https://github.com/user-attachments/assets/433d2c4c-852c-4c11-9e7b-4538faf27f65" />
+
+
 
 5. ## Orçamento Estimado
 
@@ -69,9 +73,9 @@ Dell Inspiron – Linha Educacional
 | Bolsas/Cases de Proteção       | 30         | <span style="color:green">120,00</span>       | <span style="color:green">3.600,00</span>     |
 | Roteador Wi-Fi corporativo     | 2          | <span style="color:green">1.200,00</span>     | <span style="color:green">2.400,00</span>     |
 | Instalação e Configuração      | 1          | <span style="color:green">5.000,00</span>     | <span style="color:green">5.000,00</span>     |
-| *TOTAL GERAL ESTIMADO*       | -          | -                                             | <span style="color:green"><b>201.500,00</b></span> |
+| *TOTAL GERAL ESTIMADO*       | -          | - <span style="color:green">7.175,00</span>| <span style="color:green"><b>201.500,00</b></span> |
 
-6. Benefícios Esperados
+6. ## Benefícios Esperados
 
 Alunos: terão acesso a equipamentos modernos, rápidos e portáteis, favorecendo pesquisas, trabalhos colaborativos e maior engajamento nas aulas.
 
@@ -83,7 +87,7 @@ Instituição: redução de custos com manutenção, menor consumo de energia, a
 
 ---
 
-7. Cronograma (Simplificado)
+7. ## Cronograma (Simplificado)
 
 Etapa	Prazo Estimado
 
@@ -97,6 +101,6 @@ Total estimado	10 semanas
 
 ---
 
-8. Considerações Finais
+8. ## Considerações Finais
 
 A aquisição de notebooks representa um passo estratégico para modernizar a escola, oferecendo maior qualidade de ensino, mobilidade e economia a longo prazo. O investimento trará benefícios diretos para alunos e professores, além de fortalecer a infraestrutura de TI da instituição. Portanto, recomenda-se fortemente a aprovação e execução deste projeto como a solução ideal para atender às demandas educacionais contemporâneas.
